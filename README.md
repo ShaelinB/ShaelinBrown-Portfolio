@@ -28,5 +28,5 @@ I am a current game design and development student at Rochester Institute of Tec
   - Java
 
 ## Contact
-Email: shb3456@rit.edu or shaelinb15@gmail.com
+Email: shb3456@rit.edu or shaelinb15@gmail.com <br>
 Linkedin: www.linkedin.com/in/shaelin-brown
